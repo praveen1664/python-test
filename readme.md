@@ -1,7 +1,7 @@
 ## Python Test
 
 sdd
-…or create a new repository on the command line
+…or create a nesssw repository on the command line
 
 
   
